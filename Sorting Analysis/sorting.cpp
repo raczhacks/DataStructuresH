@@ -2,6 +2,25 @@
 Sorting Program Analysis
 CSC331H
 Professor Salvati
+
+Description - Program compares the performance of different sorting algorithms on datasets containing integers.
+The data set should be sorted in ascending order and the algorithms will use arrays containing 100 or 1000 integers.
+
+The following number distributions will be used:
+
+a.) Completely Random
+b.) Almost sorted in ascending order ( about 90% of items are in increasing order, 10% are random)
+c.) Almost reversed -  same as b) but in reverse order
+d.) Array is sorted except for the last 10%
+
+The following sorting algorithms are used:
+
+•Selection Sort
+•Insertion Sort
+•Heap Sort
+•Merge Sort
+•QuickSort
+
 */
 
 #include <iostream>
