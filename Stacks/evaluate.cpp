@@ -1,6 +1,10 @@
 /*Daniel Racz
   CSC 331H
   Stack Evaluation Program
+
+  Description - Program uses stacks to evaluate an arithmetic expression.
+  Given operators are +,-,*,/.
+  The expression can have parentheses, negative numbers and spaces in between.
 */
 
 #include <stack>
